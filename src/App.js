@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
         
-  <a class="menu-toggle rounded" href="#">
+  {/* <a class="menu-toggle rounded" href="#">
     <i class="fa fa-bars"></i>
-  </a>
+  </a> */}
   <nav id="sidebar-wrapper">
     <ul class="sidebar-nav">
       <li class="sidebar-brand">
