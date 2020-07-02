@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.kibi_icons {
+  max-width: 100%;
+}
+
+.kibi_sql {
+  max-width: 85%;
+}
+
+.kibi_agile {
+  max-width: 75%;
+}
+

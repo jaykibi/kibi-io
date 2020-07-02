@@ -53,7 +53,7 @@ function App() {
         <div class="col-lg-10 mx-auto">
           <h2>Welcome to my website!</h2>
           <p class="lead mb-5">
-            Here you will find some examples of projects I have done and projects I'm currently working on! Enjoy :)
+            Here you will find some examples of projects I have completed and projects I'm currently working on! Enjoy :)
           </p>
           <p>
            [ p.s. This website was made using <strong>React</strong> with a pretty <strong>Bootstrap</strong> theme ]
@@ -75,7 +75,9 @@ function App() {
       <div class="row">
         <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
           <span class="service-icon rounded-circle mx-auto mb-3">
-            <i class="icon-screen-smartphone"></i>
+            <i>
+              <img class="kibi_icons mb-3" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png"/>
+            </i>
           </span>
           <h4>
             <strong>Ruby on Rails</strong>
@@ -84,7 +86,9 @@ function App() {
         </div>
         <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
           <span class="service-icon rounded-circle mx-auto mb-3">
-            <i class="icon-pencil"></i>
+            <i>
+              <img class="kibi_icons mb-3" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
+            </i>
           </span>
           <h4>
             <strong>Python</strong>
@@ -93,7 +97,9 @@ function App() {
         </div>
         <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
           <span class="service-icon rounded-circle mx-auto mb-3">
-            <i class="icon-like"></i>
+            <i>
+              <img class="kibi_sql mb-1" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-512.png"/>
+            </i>
           </span>
           <h4>
             <strong>SQL</strong>
@@ -104,7 +110,9 @@ function App() {
         </div>
         <div class="col-lg-3 col-md-6">
           <span class="service-icon rounded-circle mx-auto mb-3">
-            <i class="icon-mustache"></i>
+            <i>
+              <img class="kibi_agile mb-4" src="https://cdn0.iconfinder.com/data/icons/project-management-aqua-vol-1/500/Agile-512.png"/>
+            </i>
           </span>
           <h4>
             <strong>AGILE</strong>
@@ -134,33 +142,33 @@ function App() {
       </div>
       <div class="row no-gutters">
         <div class="col-lg-6">
-          <a class="portfolio-item" href="#!">
+          <a class="portfolio-item" href="https://coding-knights.herokuapp.com/">
             <div class="caption">
               <div class="caption-content">
-                <div class="h2">Stationary</div>
-                <p class="mb-0">A yellow pencil with envelopes on a clean, blue backdrop!</p>
+                <div class="h2">Coding Knights' Chess</div>
+                <p class="mb-0">A chess app made with Rails MVC, PostgreSQL DB, jQuery, Devise, Omniauth, and Pusher. Users can create accounts and play chess with friends!</p>
               </div>
             </div>
-            <img class="img-fluid" src="img/portfolio-1.jpg" alt=""/>
+            <img class="img-fluid" src="img/chess.jpg" alt=""/>
           </a>
         </div>
         <div class="col-lg-6">
-          <a class="portfolio-item" href="#!">
+          <a class="portfolio-item" href="https://nomster-raquibbi.herokuapp.com/">
             <div class="caption">
               <div class="caption-content">
-                <div class="h2">Ice Cream</div>
-                <p class="mb-0">A dark blue background with a colored pencil, a clip, and a tiny ice cream cone!</p>
+                <div class="h2">Nomster</div>
+                <p class="mb-0">A Yelp clone that integrates with the Google Maps API and includes features like user comments, star ratings, image uploading, and user authentication! Find a great local place to <em>nom nom nom.</em></p>
               </div>
             </div>
             <img class="img-fluid" src="img/portfolio-2.jpg" alt=""/>
           </a>
         </div>
         <div class="col-lg-6">
-          <a class="portfolio-item" href="#!">
+          <a class="portfolio-item" href="http://flixter-kibi.herokuapp.com/">
             <div class="caption">
               <div class="caption-content">
-                <div class="h2">Strawberries</div>
-                <p class="mb-0">Strawberries are such a tasty snack, especially with a little sugar on top!</p>
+                <div class="h2">Flixter</div>
+                <p class="mb-0">A two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database relationships.</p>
               </div>
             </div>
             <img class="img-fluid" src="img/portfolio-3.jpg" alt=""/>
@@ -170,8 +178,8 @@ function App() {
           <a class="portfolio-item" href="#!">
             <div class="caption">
               <div class="caption-content">
-                <div class="h2">Workspace</div>
-                <p class="mb-0">A yellow workspace with some scissors, pencils, and other objects.</p>
+                <div class="h2">Bug Tracker</div>
+                <p class="mb-0">Coming Soon...</p>
               </div>
             </div>
             <img class="img-fluid" src="img/portfolio-4.jpg" alt=""/>
