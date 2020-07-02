@@ -9,6 +9,8 @@ function App() {
   {/* <a class="menu-toggle rounded" href="#">
     <i class="fa fa-bars"></i>
   </a> */}
+
+
   <nav id="sidebar-wrapper">
     <ul class="sidebar-nav">
       <li class="sidebar-brand">
@@ -37,9 +39,9 @@ function App() {
     <div class="container text-center my-auto">
       <h1 class="mb-1">Hi, I'm Kibi</h1>
       <h3 class="mb-5">
-        <em>and this is my portfolio!</em>
+        <em>and this is my website!</em>
       </h3>
-      <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+      {/* <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a> */}
     </div>
     <div class="overlay"></div>
   </header>
@@ -49,10 +51,15 @@ function App() {
     <div class="container text-center">
       <div class="row">
         <div class="col-lg-10 mx-auto">
-          <h2>Stylish Portfolio is the perfect theme for your next project!</h2>
-          <p class="lead mb-5">This theme features a flexible, UX friendly sidebar menu and stock photos from our friends at
-            <a href="https://unsplash.com/">Unsplash</a>!</p>
-          <a class="btn btn-dark btn-xl js-scroll-trigger" href="#services">What We Offer</a>
+          <h2>Welcome to my website!</h2>
+          <p class="lead mb-5">
+            Here you will find some examples of projects I have done and projects I'm currently working on! Enjoy :)
+          </p>
+          <p>
+           [ p.s. This website was made using <strong>React</strong> with a pretty <strong>Bootstrap</strong> theme ]
+          </p>
+          
+          {/* <a class="btn btn-dark btn-xl js-scroll-trigger" href="#services">What We Offer</a> */}
         </div>
       </div>
     </div>
@@ -62,8 +69,8 @@ function App() {
   <section class="content-section bg-primary text-white text-center" id="services">
     <div class="container">
       <div class="content-section-heading">
-        <h3 class="text-secondary mb-0">Services</h3>
-        <h2 class="mb-5">What We Offer</h2>
+        {/* <h3 class="text-secondary mb-0">Services</h3> */}
+        <h2 class="mb-5">Things I Know</h2>
       </div>
       <div class="row">
         <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
@@ -71,58 +78,58 @@ function App() {
             <i class="icon-screen-smartphone"></i>
           </span>
           <h4>
-            <strong>Responsive</strong>
+            <strong>Ruby on Rails</strong>
           </h4>
-          <p class="text-faded mb-0">Looks great on any screen size!</p>
+          <p class="text-faded mb-0">Rails MVC was used in most of my projects</p>
         </div>
         <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
           <span class="service-icon rounded-circle mx-auto mb-3">
             <i class="icon-pencil"></i>
           </span>
           <h4>
-            <strong>Redesigned</strong>
+            <strong>Python</strong>
           </h4>
-          <p class="text-faded mb-0">Freshly redesigned for Bootstrap 4.</p>
+          <p class="text-faded mb-0">For the Data Structures and Algorithms ;)</p>
         </div>
         <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
           <span class="service-icon rounded-circle mx-auto mb-3">
             <i class="icon-like"></i>
           </span>
           <h4>
-            <strong>Favorited</strong>
+            <strong>SQL</strong>
           </h4>
-          <p class="text-faded mb-0">Millions of users
-            <i class="fa fa-heart"></i>
-            Start Bootstrap!</p>
+          <p class="text-faded mb-0">
+            I   <i class="fa fa-heart"></i>  querying databases 
+          </p>
         </div>
         <div class="col-lg-3 col-md-6">
           <span class="service-icon rounded-circle mx-auto mb-3">
             <i class="icon-mustache"></i>
           </span>
           <h4>
-            <strong>Question</strong>
+            <strong>AGILE</strong>
           </h4>
-          <p class="text-faded mb-0">I mustache you a question...</p>
+          <p class="text-faded mb-0">Sprints are my thing, both physical and coding</p>
         </div>
       </div>
     </div>
   </section>
 
   
-  <section class="callout">
+  {/* <section class="callout">
     <div class="container text-center">
       <h2 class="mx-auto mb-5">Welcome to
         <em>your</em>
         next website!</h2>
       <a class="btn btn-primary btn-xl" href="https://startbootstrap.com/themes/stylish-portfolio/">Download Now!</a>
     </div>
-  </section>
+  </section> */}
 
   
   <section class="content-section" id="portfolio">
     <div class="container">
       <div class="content-section-heading text-center">
-        <h3 class="text-secondary mb-0">Portfolio</h3>
+        {/* <h3 class="text-secondary mb-0">Portfolio</h3> */}
         <h2 class="mb-5">Recent Projects</h2>
       </div>
       <div class="row no-gutters">
@@ -212,7 +219,7 @@ function App() {
           </a>
         </li>
       </ul>
-      <p class="text-muted small mb-0">Copyright &copy; Your Website 2020</p>
+      <p class="text-muted small mb-0">Copyright &copy; kibi.io 2020</p>
     </div>
   </footer>
     </div>
