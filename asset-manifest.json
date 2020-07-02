@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jaykibi.github.io/static/css/main.f968b230.chunk.css",
-    "main.js": "/jaykibi.github.io/static/js/main.15fb7331.chunk.js",
-    "main.js.map": "/jaykibi.github.io/static/js/main.15fb7331.chunk.js.map",
-    "runtime-main.js": "/jaykibi.github.io/static/js/runtime-main.8f518f40.js",
-    "runtime-main.js.map": "/jaykibi.github.io/static/js/runtime-main.8f518f40.js.map",
-    "static/js/2.696b4b76.chunk.js": "/jaykibi.github.io/static/js/2.696b4b76.chunk.js",
-    "static/js/2.696b4b76.chunk.js.map": "/jaykibi.github.io/static/js/2.696b4b76.chunk.js.map",
-    "index.html": "/jaykibi.github.io/index.html",
-    "precache-manifest.8c164ead0631bf5661473f022be469f2.js": "/jaykibi.github.io/precache-manifest.8c164ead0631bf5661473f022be469f2.js",
-    "service-worker.js": "/jaykibi.github.io/service-worker.js",
-    "static/css/main.f968b230.chunk.css.map": "/jaykibi.github.io/static/css/main.f968b230.chunk.css.map",
-    "static/js/2.696b4b76.chunk.js.LICENSE.txt": "/jaykibi.github.io/static/js/2.696b4b76.chunk.js.LICENSE.txt",
-    "static/media/stylish-portfolio.min.css": "/jaykibi.github.io/static/media/bg-kibi2.e2bc0d08.jpg"
+    "main.css": "/kibi-io/static/css/main.bc525f43.chunk.css",
+    "main.js": "/kibi-io/static/js/main.2595d7f4.chunk.js",
+    "main.js.map": "/kibi-io/static/js/main.2595d7f4.chunk.js.map",
+    "runtime-main.js": "/kibi-io/static/js/runtime-main.b921e587.js",
+    "runtime-main.js.map": "/kibi-io/static/js/runtime-main.b921e587.js.map",
+    "static/js/2.696b4b76.chunk.js": "/kibi-io/static/js/2.696b4b76.chunk.js",
+    "static/js/2.696b4b76.chunk.js.map": "/kibi-io/static/js/2.696b4b76.chunk.js.map",
+    "index.html": "/kibi-io/index.html",
+    "precache-manifest.5273d7468f620f201c20e86feacfdeec.js": "/kibi-io/precache-manifest.5273d7468f620f201c20e86feacfdeec.js",
+    "service-worker.js": "/kibi-io/service-worker.js",
+    "static/css/main.bc525f43.chunk.css.map": "/kibi-io/static/css/main.bc525f43.chunk.css.map",
+    "static/js/2.696b4b76.chunk.js.LICENSE.txt": "/kibi-io/static/js/2.696b4b76.chunk.js.LICENSE.txt",
+    "static/media/stylish-portfolio.min.css": "/kibi-io/static/media/bg-kibi2.e2bc0d08.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f518f40.js",
+    "static/js/runtime-main.b921e587.js",
     "static/js/2.696b4b76.chunk.js",
-    "static/css/main.f968b230.chunk.css",
-    "static/js/main.15fb7331.chunk.js"
+    "static/css/main.bc525f43.chunk.css",
+    "static/js/main.2595d7f4.chunk.js"
   ]
 }
