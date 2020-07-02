@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/kibi-io/static/css/main.bc525f43.chunk.css",
-    "main.js": "/kibi-io/static/js/main.743244cc.chunk.js",
-    "main.js.map": "/kibi-io/static/js/main.743244cc.chunk.js.map",
+    "main.css": "/kibi-io/static/css/main.d7b7bbe8.chunk.css",
+    "main.js": "/kibi-io/static/js/main.ecfc49be.chunk.js",
+    "main.js.map": "/kibi-io/static/js/main.ecfc49be.chunk.js.map",
     "runtime-main.js": "/kibi-io/static/js/runtime-main.b921e587.js",
     "runtime-main.js.map": "/kibi-io/static/js/runtime-main.b921e587.js.map",
     "static/js/2.696b4b76.chunk.js": "/kibi-io/static/js/2.696b4b76.chunk.js",
     "static/js/2.696b4b76.chunk.js.map": "/kibi-io/static/js/2.696b4b76.chunk.js.map",
     "index.html": "/kibi-io/index.html",
-    "precache-manifest.b85d729b45cac5db56e78f8ee5e754a3.js": "/kibi-io/precache-manifest.b85d729b45cac5db56e78f8ee5e754a3.js",
+    "precache-manifest.441d8b8e42f4416652c23328a453b71d.js": "/kibi-io/precache-manifest.441d8b8e42f4416652c23328a453b71d.js",
     "service-worker.js": "/kibi-io/service-worker.js",
-    "static/css/main.bc525f43.chunk.css.map": "/kibi-io/static/css/main.bc525f43.chunk.css.map",
+    "static/css/main.d7b7bbe8.chunk.css.map": "/kibi-io/static/css/main.d7b7bbe8.chunk.css.map",
     "static/js/2.696b4b76.chunk.js.LICENSE.txt": "/kibi-io/static/js/2.696b4b76.chunk.js.LICENSE.txt",
     "static/media/stylish-portfolio.min.css": "/kibi-io/static/media/bg-kibi2.e2bc0d08.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b921e587.js",
     "static/js/2.696b4b76.chunk.js",
-    "static/css/main.bc525f43.chunk.css",
-    "static/js/main.743244cc.chunk.js"
+    "static/css/main.d7b7bbe8.chunk.css",
+    "static/js/main.ecfc49be.chunk.js"
   ]
 }

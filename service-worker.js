@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kibi-io/precache-manifest.b85d729b45cac5db56e78f8ee5e754a3.js"
+  "/kibi-io/precache-manifest.441d8b8e42f4416652c23328a453b71d.js"
 );
 
 self.addEventListener('message', (event) => {
