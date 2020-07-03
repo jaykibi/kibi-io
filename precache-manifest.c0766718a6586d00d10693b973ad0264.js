@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f0d1c13cd99e694d57d68252cfcc1f1",
+    "revision": "8a796d751958b10610428c1e4fc97374",
     "url": "/kibi-io/index.html"
   },
   {
-    "revision": "37d939d29935e81c2971",
+    "revision": "2d54470e492cb550ad7b",
     "url": "/kibi-io/static/css/main.d7b7bbe8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kibi-io/static/js/2.c2259ff2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37d939d29935e81c2971",
-    "url": "/kibi-io/static/js/main.685e64ca.chunk.js"
+    "revision": "2d54470e492cb550ad7b",
+    "url": "/kibi-io/static/js/main.6943fd5d.chunk.js"
   },
   {
     "revision": "af773322cef7ca533bbc",

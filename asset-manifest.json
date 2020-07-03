@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kibi-io/static/css/main.d7b7bbe8.chunk.css",
-    "main.js": "/kibi-io/static/js/main.685e64ca.chunk.js",
-    "main.js.map": "/kibi-io/static/js/main.685e64ca.chunk.js.map",
+    "main.js": "/kibi-io/static/js/main.6943fd5d.chunk.js",
+    "main.js.map": "/kibi-io/static/js/main.6943fd5d.chunk.js.map",
     "runtime-main.js": "/kibi-io/static/js/runtime-main.b921e587.js",
     "runtime-main.js.map": "/kibi-io/static/js/runtime-main.b921e587.js.map",
     "static/js/2.c2259ff2.chunk.js": "/kibi-io/static/js/2.c2259ff2.chunk.js",
     "static/js/2.c2259ff2.chunk.js.map": "/kibi-io/static/js/2.c2259ff2.chunk.js.map",
     "index.html": "/kibi-io/index.html",
-    "precache-manifest.9489c1715beb0c18b3aace82385dcfd4.js": "/kibi-io/precache-manifest.9489c1715beb0c18b3aace82385dcfd4.js",
+    "precache-manifest.c0766718a6586d00d10693b973ad0264.js": "/kibi-io/precache-manifest.c0766718a6586d00d10693b973ad0264.js",
     "service-worker.js": "/kibi-io/service-worker.js",
     "static/css/main.d7b7bbe8.chunk.css.map": "/kibi-io/static/css/main.d7b7bbe8.chunk.css.map",
     "static/js/2.c2259ff2.chunk.js.LICENSE.txt": "/kibi-io/static/js/2.c2259ff2.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b921e587.js",
     "static/js/2.c2259ff2.chunk.js",
     "static/css/main.d7b7bbe8.chunk.css",
-    "static/js/main.685e64ca.chunk.js"
+    "static/js/main.6943fd5d.chunk.js"
   ]
 }
