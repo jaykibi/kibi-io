@@ -3,11 +3,10 @@ import React from 'react';
 class Contact extends React.Component {
     render() {
         return (
-            <section class="mb-4">
+            <section class="mb-5">
                 <h2 class="h1-responsive font-weight-bold text-center my-4">Contact Me</h2>
                 
-                <p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Or would like to hire me :) ? Please do not hesitate to contact me directly. I will come back to you within
-                    a matter of hours to help you.</p>
+                <p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Or would like to hire me :) ? Please don't hesitate to contact me directly.</p>
 
                 <div class="row">
 
@@ -76,6 +75,8 @@ class Contact extends React.Component {
                 </div>
 
             </section>      
+            
+            
         )
     }
 }
