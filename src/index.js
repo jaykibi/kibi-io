@@ -11,6 +11,7 @@ import TechStack from './components/TechStack';
 import Projects from './components/Projects';
 import Map from './components/Map';
 import Contact from './components/Contact';
+import Resume from './components/Resume';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -18,6 +19,7 @@ ReactDOM.render(
     <AboutSection />
     <TechStack />
     <Projects />
+    <Resume />
     <Contact />
     <Map />
     <App />
