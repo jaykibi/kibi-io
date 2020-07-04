@@ -86,7 +86,7 @@ class Contact extends React.Component {
                             </div>
                         
                         <div class="text-center text-md-right">
-                            {status === "SUCCESS" ? <p>Thanks!</p> : <button class="btn btn-primary">Submit</button>}
+                            {status === "SUCCESS" ? <p>Email sent! I'll get back to you within the day!</p> : <button class="btn btn-primary">Submit</button>}
                             {status === "ERROR" && <p>Ooops! There was an error.</p>}
                         </div>
                         
