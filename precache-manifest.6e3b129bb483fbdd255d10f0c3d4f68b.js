@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a796d751958b10610428c1e4fc97374",
+    "revision": "4322ade9c6b07473b11095c5e79d9f01",
     "url": "/kibi-io/index.html"
   },
   {
-    "revision": "2d54470e492cb550ad7b",
+    "revision": "48704a8241536248994e",
     "url": "/kibi-io/static/css/main.d7b7bbe8.chunk.css"
   },
   {
-    "revision": "548cd999a65c360ccd93",
-    "url": "/kibi-io/static/js/2.c2259ff2.chunk.js"
+    "revision": "c538521d94427fa1d0f5",
+    "url": "/kibi-io/static/js/2.3d01847a.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/kibi-io/static/js/2.c2259ff2.chunk.js.LICENSE.txt"
+    "url": "/kibi-io/static/js/2.3d01847a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d54470e492cb550ad7b",
-    "url": "/kibi-io/static/js/main.6943fd5d.chunk.js"
+    "revision": "48704a8241536248994e",
+    "url": "/kibi-io/static/js/main.a06f9590.chunk.js"
   },
   {
     "revision": "af773322cef7ca533bbc",
