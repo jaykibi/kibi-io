@@ -11,7 +11,7 @@ class Projects extends React.Component {
                     </div>
                 <div class="row no-gutters">
                     <div class="col-lg-6">
-                    <a class="portfolio-item" href="https://coding-knights.herokuapp.com/">
+                    <a class="portfolio-item" href="https://coding-knights.herokuapp.com/" target="_blank">
                         <div class="caption">
                         <div class="caption-content">
                             <div class="h2">Coding Knights' Chess</div>
@@ -22,7 +22,7 @@ class Projects extends React.Component {
                     </a>
                     </div>
                     <div class="col-lg-6">
-                    <a class="portfolio-item" href="https://nomster-raquibbi.herokuapp.com/">
+                    <a class="portfolio-item" href="https://nomster-raquibbi.herokuapp.com/" target="_blank">
                         <div class="caption">
                         <div class="caption-content">
                             <div class="h2">Nomster</div>
@@ -33,7 +33,7 @@ class Projects extends React.Component {
                     </a>
                     </div>
                     <div class="col-lg-6">
-                    <a class="portfolio-item" href="http://flixter-kibi.herokuapp.com/">
+                    <a class="portfolio-item" href="http://flixter-kibi.herokuapp.com/" target="_blank">
                         <div class="caption">
                         <div class="caption-content">
                             <div class="h2">Flixter</div>
